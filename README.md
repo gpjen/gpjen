@@ -2,13 +2,13 @@
 <p align="center">
   <em>Software Developer | Fullstack | IoT Enthusiast</em>
 </p>
-<!-- <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3> -->
+<!-- <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3> -->
 
 # 💫 About Me:
 🔭 I’m currently working on:<br>Building scalable and efficient web applications as a Fullstack Developer at an IT company in Jakarta.<br><br>👯 I’m looking to collaborate on:<br>Innovative IoT projects, web development solutions, or anything that challenges my skills in modern tech stacks.<br><br>🤝 I’m looking for help with:<br>Expanding my expertise in cloud-based architectures and advanced database optimization techniques.<br><br>💬 Ask me about:<br>Fullstack development, IoT solutions, and how to integrate modern technologies into business processes effectively.<br><br>⚡ Fun fact:<br>I thrive on solving complex problems but still find joy in simple solutions—code simplicity is my superpower!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gandijen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@gandipurnajen8568) 
 
 # 💻 Tech Stack:
